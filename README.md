@@ -1,2 +1,2 @@
 # saofai.github.io
-Official site of SAOFAI (Secure Adaptation and Operation Framework for Artificial Intelligence)
+Official site of SAOFAI (Secure Adoption and Operation Framework for Artificial Intelligence)
